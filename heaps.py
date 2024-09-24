@@ -305,16 +305,8 @@ class FibonacciHeap:
         return None
 
 
-
-
-
-
-
-
-
-
 ######################################################################
-# Fibonacci heap
+# Binary heap
 ######################################################################
 from heapq import heappush, heappop, heapify
 
